@@ -1,0 +1,26 @@
+indexhtml
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./docplanner.css">
+    <script src="https://kit.fontawesome.com/afff9c014a.js"></script>
+    <title>Westia</title>
+</head>
+<body>
+<div class="header">
+                <img src="http://www.westiagroup.com/storage/logo-dark.png" alt="image" width="250px">
+               <div class="menu">
+                    <p>Home</p>
+                    <p>Company</p>
+                    <p>Prtfolio</p>
+                    <p>Inside Story<p/>
+                    <p>Cntact Us<p/>
+               </div>
+     <div class="box"> 
+<div id="particles-2" style="display: block; position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px;"><canvas class="particles-js-canvas-el" width="337" height="330" style="width: 100%; height: 100%;"></canvas></div>
+<div id="particles-2" style="display: block; position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px;"><canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="592" height="650"></canvas></div>        
+<div class=">
+</div>
